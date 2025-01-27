@@ -5,4 +5,5 @@ this will be released soon, so pls stop by and tell me if there are errors.
 # WARNING!! THIS IS NOT COMPLETE AND IT IS VERY BUGGY I RECOMMEND HAVING A BACKUP WM!
 The minimize I will remove because it makes it so you can't get it back. have Fun!
  # Releases
-   you can get it by running `git clone https://github.com/0xECoder/mwwm/`
+   you can get it by running `git clone https://github.com/0xECoder-ERR/mwwm/`,
+   or by going to https://github.com/0xECoder/mwwm/

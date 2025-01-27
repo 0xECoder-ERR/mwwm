@@ -6,4 +6,4 @@ this will be released soon, so pls stop by and tell me if there are errors.
 The minimize I will remove because it makes it so you can't get it back. have Fun!
  # Releases
    you can get it by running `git clone https://github.com/0xECoder-ERR/mwwm/`,
-   or by going to https://github.com/0xECoder/mwwm/
+   or by going to https://github.com/0xECoder-ERR/mwwm/releases
